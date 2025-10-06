@@ -1,0 +1,18 @@
+# Virtual Environment
+baby_monitor_env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Test images
+*.jpg
+*.png
+
+# IDE
+.vscode/
