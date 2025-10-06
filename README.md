@@ -4,6 +4,12 @@ A Flask-based baby monitoring application for Raspberry Pi 5 that uses computer 
 
 ## Features
 
+<img width="2594" height="1232" alt="image" src="https://github.com/user-attachments/assets/29a48d45-b053-44e7-a23e-4a12ae26eb63" />
+
+<img width="2402" height="1316" alt="image" src="https://github.com/user-attachments/assets/a0dc0977-4927-4c4c-9340-5f59bd60a295" />
+
+
+
 ### Dual AI Detection Modes
 - **MediaPipe (Advanced)**: Uses Google MediaPipe for eye tracking and pose detection to accurately determine sleep state
 - **OpenCV (Fallback)**: Motion-based detection using background subtraction if MediaPipe is unavailable
