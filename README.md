@@ -62,3 +62,4 @@ A Flask-based baby monitoring application for Raspberry Pi 5 that uses computer 
 - `/video_feed` - MJPEG video stream
 - `/toggle_cv` - Enable/disable computer vision
 - `/status` - JSON status endpoint# Baby_Monitor
+# pumpkin_tracker
